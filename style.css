@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+.image-container {
+    margin-top: 20px;
+}
+#ddd;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#imageContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-width: 100px;
+  max-height: 100px;
+}
